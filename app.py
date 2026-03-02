@@ -1,7 +1,6 @@
 import streamlit as st
 import requests
 import random
-import http.client
 
 st.title("🎉 Sorteo Aleatorio de TikTok")
 st.write("Ingresa el enlace de un video para elegir un comentario ganador al azar.")
